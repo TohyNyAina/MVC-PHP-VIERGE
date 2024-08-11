@@ -1,2 +1,0 @@
-mamorona base de données == "tuto" ny anarany 
-de mamorona table "contact" aveo izay manana colonne 4 misy id = int , prenom = varchar , nom = varchar , tel = int 

@@ -3,7 +3,7 @@ class DB{
     private $host = "localhost";
     private $user = "root";
     private $pass = "";
-    private $dbname = "tuto";
+    private $dbname = "crud";
     public $ds;
     public function __construct(){
         $dsn = 'mysql:host=' . $this->host . ';dbname=' . $this->dbname.';charset=utf8';
